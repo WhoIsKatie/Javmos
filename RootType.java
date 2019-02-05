@@ -1,5 +1,8 @@
 package javmos;
-
+/**
+ *
+ * @author K. Liu & W. Zhao
+ */
 import java.awt.Color;
 
 public enum RootType {
