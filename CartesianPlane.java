@@ -1,7 +1,10 @@
 package javmos;
 
 import java.awt.Graphics2D;
-
+/**
+ *
+ * @author K. Liu & W. Zhao
+ */
 public class CartesianPlane {
 
     private final JavmosGUI gui;
