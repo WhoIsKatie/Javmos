@@ -1,5 +1,8 @@
 package javmos;
-
+/**
+ *
+ * @author K. Liu & W. Zhao
+ */
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
