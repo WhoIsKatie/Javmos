@@ -1,6 +1,9 @@
 
 package javmos;
-
+/**
+ *
+ * @author K. Liu & W. Zhao
+ */
 import java.awt.geom.Ellipse2D;
 import java.util.HashSet;
 import java.util.Set;
