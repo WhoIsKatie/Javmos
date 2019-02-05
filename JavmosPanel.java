@@ -1,5 +1,8 @@
 package javmos;
-
+/**
+ *
+ * @author K. Liu & W. Zhao
+ */
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.event.MouseListener;
