@@ -1,5 +1,8 @@
 package javmos;
-
+/**
+ *
+ * @author K. Liu & W. Zhao
+ */
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Graphics2D;
