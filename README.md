@@ -1,2 +1,3 @@
 # Javmos
-Created by Katie L. and Wendy Z.
+Created by K. Liu and W. Zhao.
+January 2019
